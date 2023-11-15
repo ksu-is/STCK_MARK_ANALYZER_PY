@@ -2,7 +2,7 @@
 
 - [X] Make a repository
 - [X] Make the respository visible for everyone and for both members to make changes
-- [X] Find a tutprial for project ideas
+- [X] Project Ideas Tutorial
 - [X] Complete Sprint 1
 - [X] Create a README.md
 - [X] Make commits to code and complete sprint 2
@@ -16,8 +16,8 @@
 
 #final
 
-- [X] 
-- [X] 
-- [X] 
-- [X]
-- [X] 
+- [X] Completion Check: placing "x" for the completion of different final steps, showing that you have finished the given tasks.
+- [X] Final Polishing of software: showing that the final steps for polishing the software has been completed.
+- [X] Updating the README.md: showing certain information is documented.
+- [X] Release: all steps have been marked, indicating that the stock market analyzer is ready for release.
+      
