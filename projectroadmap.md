@@ -5,13 +5,15 @@
 - [X] Project Ideas Tutorial
 - [X] Complete Sprint 1
 - [X] Create a README.md
+- [ ] Create Road map
+- [ ] Start Code in github
 - [X] Make commits to code and complete sprint 2
 - [X] Compete sprint 3
 
   #Enchancements and features**
-- [X] User Interface: Create a window for the software to look cleaner and run smoother for the user.
-- [X] 
-- [X]  
+- [X] User Interface: Create a webapp using streamlit for the software to look cleaner and run smoother for the user.
+- [X] Visual Graphs for Stock Market Comparison
+- [X] Slider Bar: S Specifiy dates for the 
 - [x] 
 
 #final
