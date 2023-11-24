@@ -17,3 +17,7 @@ selected_stock = st.selectbox('Select dataset for prediction', stocks)
 
 #collect historical stock data
 stock_data = yf.download(selected_stock, START, TODAY)
+
+#show historical stock data
+st.subheader('Historical Stock Data')
+st.write(stock_data)
