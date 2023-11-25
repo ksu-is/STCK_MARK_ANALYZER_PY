@@ -7,6 +7,7 @@
 - [X] Create a README.md
 - [ ] Create Road map
 - [ ] Start Code in github
+- [ ] Pip install prophet, plotly, streamlit, datetime, & yfinance
 - [X] Make commits to code and complete sprint 2
 - [X] Compete sprint 3
 
