@@ -12,7 +12,7 @@ TODAY = date.today().strftime("%Y-%m-%d")#TAKES CURRENT DATE AND USES IT AS THE 
 
 st.title('Stock Market Prediction App')
 
-stocks = ('GOOG', 'AAPL', 'MSFT', 'GME','NFLX','META','QQQ','TSLA','AMC','AMZN','NVDA','NYSE','AMD','OTCMKTS:SIEGY') #Selectable stock codes added to the Web app
+stocks = ('GOOG', 'AAPL', 'MSFT', 'GME','NFLX','META','QQQ','TSLA','AMC','AMZN','NVDA','NYSE','AMD') #Selectable stock codes added to the Web app
 selected_stock = st.selectbox('Select dataset for prediction', stocks)
 
 n_years = st.slider('Years of prediction:', 1, 7) #Adding slider bar to webapp for year length prediction
