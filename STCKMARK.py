@@ -10,7 +10,7 @@ from plotly import graph_objs as go
 START = "2015-01-01" #DATE FOR WHEN DATA WILL BE START TO BE ANALYZED 
 TODAY = date.today().strftime("%Y-%m-%d")#TAKES CURRENT DATE AND USES IT AS THE END OF ANALYZATION PERIOD
 
-st.title('Stock Forecast App')
+st.title('Stock Market Prediction App')
 
 stocks = ('GOOG', 'AAPL', 'MSFT', 'GME','NFLX','META','QQQ','TSLA','AMC','AMZN','NVDA','NYSE','AMD','OTCMKTS:SIEGY') #Selectable stock codes added to the Web app
 selected_stock = st.selectbox('Select dataset for prediction', stocks)
