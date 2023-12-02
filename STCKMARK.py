@@ -45,7 +45,7 @@ plot_raw_data()
 df_train = data[['Date','Close']]
 df_train = df_train.rename(columns={"Date": "ds", "Close": "y"})
 
-#From this point on I was unable to get the code to work due to a optimization error
+
 m = Prophet()
 
 m.fit(df_train)
